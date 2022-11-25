@@ -1,0 +1,12 @@
+"Phrases"
+{
+    "SnowOn"
+    {
+        "en"    " {purple}FAIRSIDE >> {default}You {green}turned on {default}the snow particles."
+    }
+
+    "SnowOff"
+    {
+        "en"    " {purple}FAIRSIDE >> {default}You {error}turned off {default}the snow particles."
+    }
+}
